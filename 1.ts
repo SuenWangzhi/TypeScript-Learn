@@ -14,9 +14,9 @@ type beast ={
 const 胡建辉: beast = {
   type: '狗逼',
   id: 250,
-  gender:'阉货'
-}
-console.log(胡建辉);
+  gender:"阉货"
+} 
+console.log(胡建辉)
 
 type A = {
   [propName: string]: number
